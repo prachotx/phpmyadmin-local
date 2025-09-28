@@ -19,7 +19,7 @@ It comes with:
    ```bash
    git clone https://github.com/your-username/phpmyadmin-local.git
    cd phpmyadmin-local
-2. Create a bin directory inside your home (if it doesn’t exist yet)
+2. **Create a bin directory inside your home (if it doesn’t exist yet)**
    ```bash
    mkdir -p ~/bin
 3. **Copy the script**
@@ -62,3 +62,5 @@ Access phpMyAdmin in your browser: [http://localhost:8080](http://localhost:8080
 ## 🛠️ Requirements
 - [Docker](https://docs.docker.com/get-docker/)
 - [Docker Compose](https://docs.docker.com/compose/)
+
+---
